@@ -7,7 +7,7 @@
 2. 安徽大学飞跃手册 https://github.com/AHUer-LeapLap/Impart-Inherit  
   优秀学长学姐的大学经验总结
 
-强烈推荐大家 Star 不要只是 `Download ZIP` 了 , 这将能很好得鼓励。
+强烈推荐大家 `Star` 不要只是 `Download ZIP` 了 , 这将能很好得鼓励。
 
 ## To Do List
 
