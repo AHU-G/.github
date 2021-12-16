@@ -1,5 +1,16 @@
 ## 欢迎大家贡献一切和 AHU 有关的代码
 
+## Recommend List（推荐列表）
+
+1. 安徽大学(AHU)计算机科学与技术学院学习资料汇总 https://github.com/TenMoons/AHU-CS-Repository
+  对安徽大学计科院的课程学习很有帮助
+2. 安徽大学飞跃手册 https://github.com/AHUer-LeapLap/Impart-Inherit  
+  优秀学长学姐的大学经验总结
+
+强烈推荐大家 Star 不要只是 `Download ZIP` 了 , 这将能很好得鼓励。
+
+## To Do List
+
 - [ ] 与课程有关的仓库         参考：
   1. https://github.com/QSCTech/zju-icicles
   2. https://github.com/TenMoons/AHU-CS-Repository
