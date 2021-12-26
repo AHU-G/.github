@@ -14,6 +14,7 @@
 - [ ] 与课程有关的仓库         参考：
   1. https://github.com/QSCTech/zju-icicles
   2. https://github.com/TenMoons/AHU-CS-Repository
+  3. https://github.com/USTC-Resource/USTC-Course
      - [ ] 课程笔记 参考：
        1. https://github.com/skyzh/notes
 - [ ] 与程序有关的仓库         参考：
