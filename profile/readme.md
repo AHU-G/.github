@@ -22,6 +22,7 @@
   2. https://github.com/QingdaoU/OnlineJudge
   3. https://github.com/xbb1973/USTC-ncov-AutoReport
   4. https://github.com/YooKing/HAUT_autoCheck
+  5. https://hollowman.ml/LZU-Auto-COVID-Health-Report/ (原仓库被封了)
 - [ ] 与 `LaTeX` 有关的仓库：
   - [ ] 与模板有关的仓库        参考：
     1. https://github.com/megrxu/zju-report-latex-template
