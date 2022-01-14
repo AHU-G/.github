@@ -32,3 +32,7 @@
     2. https://github.com/tuna/THU-Beamer-Theme
     3. https://github.com/sjtug/SJTUBeamer
     4. https://github.com/TouchFishPioneer/SEU-Beamer-Slide
+- [ ] 与国标 `GB/T 7714-2015` 参考文献格式有关的仓库         参考：
+  1. https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl
+  2. https://github.com/zepinglee/gbt7714-bibtex-style
+  3. https://github.com/hushidong/biblatex-gb7714-2015
