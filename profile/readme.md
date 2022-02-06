@@ -27,6 +27,7 @@
   - [ ] 与模板有关的仓库        参考：
     1. https://github.com/megrxu/zju-report-latex-template
     2. https://github.com/sjtug/SJTUThesis
+    3. https://github.com/jiangyy/njuthesis
   - [ ] 与 `Beamer` 有关的仓库 参考：
     1. https://www.overleaf.com/latex/templates/tagged/presentation
     2. https://github.com/tuna/THU-Beamer-Theme
